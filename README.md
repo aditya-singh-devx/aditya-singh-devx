@@ -25,4 +25,4 @@
 
 ## 📫 Connect With Me
 - YouTube: Aadi Plays
-- Email: your@email.com
+- Email: adityasingh6082@gmail.com
