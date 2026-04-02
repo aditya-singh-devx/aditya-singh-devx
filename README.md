@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**aditya-singh-devx/aditya-singh-devx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BCA Student | Full Stack Developer  
+💻 Tech Stack: HTML, CSS, JavaScript, Node.js, MongoDB  
+📺 YouTuber: Aadi Plays (700K+ Subscribers)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My Projects
+
+### 🟢 College Event Management System
+- Admin Panel
+- QR Entry System
+- JWT Authentication
+
+### 🟢 Tourism Guide System
+- Maps Integration
+- Location-based Suggestions
+
+### 🟢 Portfolio Website
+- Responsive Design
+- Modern UI
+
+---
+
+## 📫 Connect With Me
+- YouTube: Aadi Plays
+- Email: your@email.com
